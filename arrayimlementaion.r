@@ -1,0 +1,8 @@
+m=array(1:5)
+n=array(6:10)
+print(m)
+print(n)
+print(m+n)
+print(m-n)
+print(m*n)
+print(m/n)
