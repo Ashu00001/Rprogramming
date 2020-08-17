@@ -1,0 +1,6 @@
+a=c(1:9)
+b=c(11:19)
+d=matrix(a,nrow = 3, ncol = 3)
+print(d)
+c=matrix(b,nrow = 3, ncol = 3)
+print(c)
