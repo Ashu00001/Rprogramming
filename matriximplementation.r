@@ -1,0 +1,5 @@
+a=matrix(3:14,nrow = 4,byrow = TRUE)
+b=matrix(13:24,nrow = 4,byrow = TRUE)
+print(a)
+print(b)
+print(a+b)
