@@ -1,0 +1,8 @@
+m=as.integer(readline("enter no : "))
+n=as.integer(readline("enter no : "))
+print(m)
+print(n)
+print(m+n)
+print(m-n)
+print(m*n)
+print(m/n)
